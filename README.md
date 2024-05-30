@@ -94,4 +94,8 @@ console.log("Total NFTs Minted: " + getTotalSupply());
 ## Conclusion
 
 You've just walked through a simple NFT minting application in JavaScript. Thanks for watching, and happy coding!
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 ```
