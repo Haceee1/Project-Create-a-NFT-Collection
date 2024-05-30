@@ -1,6 +1,5 @@
+# Project: Create an NFT Collection
 ```markdown
-# NFT Minting Application
-
 Welcome to our JavaScript coding assessment. Today, we'll walk through a simple NFT minting application.
 
 ## Introduction
@@ -95,3 +94,4 @@ console.log("Total NFTs Minted: " + getTotalSupply());
 ## Conclusion
 
 You've just walked through a simple NFT minting application in JavaScript. Thanks for watching, and happy coding!
+```
