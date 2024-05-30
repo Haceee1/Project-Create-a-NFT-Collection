@@ -1,5 +1,3 @@
-Certainly! Here's the structured outline for the code, formatted for a GitHub README file:
-
 ```markdown
 # NFT Minting Application
 
