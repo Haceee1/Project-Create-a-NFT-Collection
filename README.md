@@ -1,4 +1,4 @@
-[LICENSE.txt](https://github.com/Haceee1/Project-Create-a-NFT-Collection/files/15492838/LICENSE.txt)# Project: Create an NFT Collection
+# Project: Create an NFT Collection
 ```markdown
 Welcome to our JavaScript coding assessment. Today, we'll walk through a simple NFT minting application.
 
@@ -97,4 +97,4 @@ You've just walked through a simple NFT minting application in JavaScript. Thank
 ```
 # License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details    
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/Haceee1/Project-Create-a-NFT-Collection/files/15492838/LICENSE.txt) file for details    
